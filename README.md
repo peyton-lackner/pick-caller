@@ -9,6 +9,7 @@
     CL draft board in columns E & F
     AL draft board in columns G & H
     FL draft board in columns I & J
-  2. run \_\_main.py\_\_
+  2. Create an empty directory named, "results" in the root folder
+  3. run \_\_main.py\_\_
 
 .txt files will be created for each league in the results directory.
